@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Shopping Cart",
+    "owner": "Celia",
+    "description": "This is a threat model on a shopping cart that lets one browse through the products, search, add the products to cart, check out, pay and confirm order."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Shopping Cart",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Celia"
+  }
+}
