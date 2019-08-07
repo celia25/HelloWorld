@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Example1 {
+public class CommandInjection {
 	public static void main(String[] args)
 	throws IOException {
 		if(args.length != 1) {
